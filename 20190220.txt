@@ -1,0 +1,10 @@
+1. Adafruit_GFX_Library
+https://github.com/adafruit/Adafruit-GFX-Library
+
+2. Adafruit_SSD1306 - ssd1306_128x64_i2c
+https://github.com/adafruit/Adafruit_SSD1306
+
+3. MKRShield
+
+SDA : Pin 11
+SCL : Pin 12
